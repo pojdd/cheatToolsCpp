@@ -1,0 +1,8 @@
+HP "mono.dll"+001F52CC 20 A0 44 D4 0 88
+最后一格数量 "mono.dll"+001F30AC 14 6C A8 8 20 C 40 C
+最后一格耐久 "mono.dll"+001F30AC 14 6C A8 8 20 C 40 8 3c
+最后一格武器速度 "mono.dll"+001F30AC 14 6C A8 8 20 C 40 8 38 20
+最后一格射击间隔 "mono.dll"+001F30AC 14 6C A8 8 20 C 40 8 3c
+最后一格自动射击 "mono.dll"+001F30AC 14 6C A8 8 20 C 40 8 40
+最后一格炮塔速度 "mono.dll"+001F30AC 14 6C A8 8 20 C 40 8 5c 20
+最后一格炮塔范围 "mono.dll"+001F30AC 14 6C A8 8 20 C 40 8 5c 14

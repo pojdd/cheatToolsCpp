@@ -1,0 +1,6 @@
+lib_burst_generated.dll+1971C44 - 42 89 7C 3E 04        - mov [rsi+r15+04],edi
+lib_burst_generated.dll+1971C44 - 4A 89 5C 3E 04        - mov [rsi+r15+04],rbx
+
+
+lib_burst_generated.dll+196CCD1 - 89 74 38 04           - mov [rax+rdi+04],esi
+lib_burst_generated.dll+196CCD1 - 89 7C 38 04           - mov [rax+rdi+04],edi

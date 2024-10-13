@@ -1,0 +1,3 @@
+[submodule "cheatTools"]
+	path = cheatTools
+	url = git@github.com:pojdd/cheatTools.git
